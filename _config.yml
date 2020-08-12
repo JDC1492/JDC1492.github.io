@@ -1,11 +1,11 @@
 # Site settings
 author: JONATHAN COHEN
-title: 
+title: Cardinal Directions
 header-img: img/home-bg.png
 email: jonathan_cohen10@yahoo.com
 copyright_name: JONATHAN COHEN
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Follow me on my journey as I learn and share with you my findings.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  JDC1492
