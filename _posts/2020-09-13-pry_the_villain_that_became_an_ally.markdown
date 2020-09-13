@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Pry: the villain that became an ally"
-date:       2020-09-13 17:58:02 +0000
+date:       2020-09-13 13:58:03 -0400
 permalink:  pry_the_villain_that_became_an_ally
 ---
 
